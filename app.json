@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Pencak Silat Training",
+    "slug": "pencak-silat-training",
+    "sdkVersion": "21.0.0",
+    "privacy": "public",
+    "version": "2.0.0",
+    "ios": {
+      "bundleIdentifier": "com.pencaksilat.training",
+      "supportsTablet": true,
+      "icon" : "./img/ios_icon.png"
+    },
+    "icon" : "./img/ios_icon.png",
+    "android" : {
+      "package" : "com.pencaksilat.training",
+      "icon" : "./img/icon.png",
+      "versionCode" : 2
+    }
+  }
+}

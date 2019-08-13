@@ -1,0 +1,534 @@
+{
+   "techniques":[
+         {
+            "name":"Kuda Tengah",
+            "category": "Kuda-Kuda",
+            "trans":"Middle Horse Stance",
+            "desc":"Basic Silat stance. Legs must be bent, back must be straight and arms in front above chest level. Hands/arms are away from the body and should not touch each other",
+            "img1":"kuda_tengah.png",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Kuda Depan",
+            "category": "Kuda-Kuda",
+            "trans":"Front Horse Stance",
+            "desc":"Front leg and back leg should be bent. Hands should be at neck level and away from your body. Both shoulders forward.",
+            "img1":"kuda_depan.png",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Kuda Samping",
+            "category": "Kuda-Kuda",
+            "trans":"Side Horse Stance",
+            "desc":"Your body is completely to the side while facing your opponent.",
+            "img1":"require('../img/kuda_kuda.png')",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Tangkisan Luar",
+            "category": "Tangkisan",
+            "trans":"Outward Block",
+            "desc":"Both hands are open, but fingers are strong. Blocking hand is sightly angled. The other hand is at neck level (but not in front of your face)",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Tangkisan Dalam",
+            "category": "Tangkisan",
+            "trans":"Inward block",
+            "desc":"Block comes from your ear and goes past your face. Your elbow should pass your belly button. Other hand can be at your hip or guarding your upper body",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Tangkisan Bawah",
+            "category": "Tangkisan",
+            "trans":"Downward Block",
+            "desc":"This block is to defend against a kick or low strike. Be sure your hand passes your body.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Tangkisan Atas",
+            "category": "Tangkisan",
+            "trans":"Upwards Block",
+            "desc":"Be sure to have your block go above your head with palm facing up. If you are blocking with your right hand, wrist should be right above your left eye.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Tangkisan Kedalam",
+            "category": "Tangkisan",
+            "trans":"Inward Down Block",
+            "desc":"Your hand should be at belt level or below and away from your body.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Tangkisan Kebawah",
+            "category": "Tangkisan",
+            "trans":"Translation text",
+            "desc":"description text",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Guntingan Bawah",
+            "category": "Tangkisan",
+            "trans":"Scissors Block Down",
+            "desc":"Blocking down with two hands crossed.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Guntingan Atas",
+            "category": "Tangkisan",
+            "trans":"Scissors Block Up",
+            "desc":"Blocking up with two hands crossed.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Pukulan Depan",
+            "category": "Pukulan",
+            "trans":"Front Punch",
+            "desc":"Punch comes from the waist. Fist must be tight and thumb always be on the outside.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Pukulan Satria",
+            "category": "Pukulan",
+            "trans":"Warrior Punch (Backfist)",
+            "desc":"Hand snaps outward and in. You hit with the back of the hand",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Pukulan Melingkar",
+            "category": "Pukulan",
+            "trans":"Circle Punch",
+            "desc":"Fist extends and hooks.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Cengkeraman Gorila",
+            "category": "Pukulan",
+            "trans":"Gorilla Palm Strike",
+            "desc":"The strike is for the nose or other vital areas of the face. You can strike up, or strike downwards.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Pukul Silang",
+            "category": "Pukulan",
+            "trans":"Reverse Punch",
+            "desc":"Punching without stepping up - foot rises in the back",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Pukulan Kuntul",
+            "category": "Pukulan",
+            "trans":"Crane/Heron Strike",
+            "desc":"Striking with the middle knuckles (joint of middle phalanges)",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Pukulan Sangkol",
+            "category": "Pukulan",
+            "trans":"Upper-Cut Punch",
+            "desc":"Punch is directed to the chin or groin. Be sure to have your hand away from your body.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Langkah Samping",
+            "category" : "Langkah",
+            "trans":"Parralel footwork",
+            "desc":"Footwork to avoid an attack, but still be in kicking range. Body moves parallel.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Langkah Serong",
+            "category" : "Langkah",
+            "trans":"Angled Footwork",
+            "desc":"Footwork to avoid an attack, but still be in punching range. Body moves at a 45 degree angle.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Langkah Silang Depan",
+            "category" : "Langkah",
+            "trans":"Front Cross-step Footwork",
+            "desc":"Your moving foot crosses in FRONT of the other foot. You can move forwards or backwards as long as the foot that you move crosses IN FRONT of the other foot.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Langkah Silang Belakang",
+            "category" : "Langkah",
+            "trans":"Back Cross-step Footwork",
+            "desc":"Your moving foot crosses in BACK of the other foot. You can move forwards or backwards as long as the foot that you move crosses IN FRONT of the other foot.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Langkah Lompat",
+            "category" : "Langkah",
+            "trans":"Jumping Footwork",
+            "desc":"This Lankgah is to avoid sweeps. The foot in front rises first, then you immediately switch stances.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Langkah Lompat Mundur",
+            "category" : "Langkah",
+            "trans":"Backwards Jumping Footwork",
+            "desc":"This Lankgah is also avoid sweeps. The foot in front rises first, then you skip backwards",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Langkah Angkat Depan",
+            "category" : "Langkah",
+            "trans":"Raised Knee Front Footwork",
+            "desc":"Foot rises in front, body still facing forward",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Langkah Angkat Samping",
+            "category" : "Langkah",
+            "trans":"Raised Knee Sideways Footwork",
+            "desc":"Foot rises as body turns to the side.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Langkah Lutut",
+            "category" : "Langkah",
+            "trans":"Knee-to-Ground Footwork",
+            "desc":"Lower knee to the ground. Knee does not have to actually touch the ground",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Tendangan Depan",
+            "category" : "Tendangan",
+            "trans":"Front Kick",
+            "desc":"Get into proper stance, then lift the knee of your back leg up as high as you want to aim. Snap your leg out with your toes facing up. Hit with the BALL of your foot. Re-chamber your foot before putting it down.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Tendangan Sabit",
+            "category" : "Tendangan",
+            "trans":"Crescent Kick",
+            "desc":"Lift the knee and let the foot follow. On your standing leg, twist on the ball of the foot, until the toes point away from one's opponent. Extend hip and hit opponent with straightened instep of foot. Pull the foot back in a straight line, so that your opponent can't grab your leg.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Tendangan Gejuk",
+            "category" : "Tendangan",
+            "trans":"Stomp Kick",
+            "desc":"Low side-kick aiming towards the opponents knee.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Tendangan Te",
+            "category" : "Tendangan",
+            "trans":"Side Kick",
+            "desc":"Literally the T-kick. Bring your leg up until your knee and foot is near your waist and butt is facing the attacker. This is called the CHAMBER (as you are bringing your leg into position in order to launch the side kick). Thrust your foot forward and strike your attacker with the sole of your foot or blade of your foot (outer edge of foot). Tip - Beginners can use a chair or rail in order to maintain their balance while practicing the fundamentals of a side kick.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Tendangan Te Belakang",
+            "category" : "Tendangan",
+            "trans":"Back Kick",
+            "desc":"Begin in Kuda depan with your kicking leg back. Turn your body until you are facing directly away from your target. Look over your shoulder as you lift your knee to your chest. With your ankle bent, drive your right heel straight toward your target using your body weight to add power to your attack. Your foot should be angled downward.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Jontrot",
+            "category" : "Tendangan",
+            "trans":"Ground Kick",
+            "desc":"Place both hands on the ground. Bring your back leg down and land on your thigh. Kick from a low position to knee or groin. Use your hands to push your body back to a front stance.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Sikuan Dalam",
+            "category" : "Sikuan",
+            "trans":"Elbow Strike Inwards",
+            "desc":"Bend your arm. Swing your elbow inwards while pulling your fist close to your chest, striking inwards with your elbow. ",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Sikuan Luar",
+            "category" : "Sikuan",
+            "trans":"Elbow Strike Outwards",
+            "desc":"Bend your arm. Bring your fist and opposite hand together to your other shoulder, then strke outwards with your elbow ",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Sikuan Atas",
+            "category" : "Sikuan",
+            "trans":"Elbow Strike Upwards",
+            "desc":"Bend your arm. Swing your elbow upwards while keeping your hand close to your head. Keep the hand close to your ear at the time of impact. Your hand palm should be facing towards your ear at time of impact.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Sikap Satria",
+            "category" : "Sikap",
+            "trans":"Warrior Pose",
+            "desc":"Posing as if you are a warrior holding a big sheild.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Sikap Minang",
+            "category" : "Sikap",
+            "trans":"Minang Pose",
+            "desc":"This stance invites your opponent to enter, and is a set-up for a side kick.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Sikap Harimau",
+            "category" : "Sikap",
+            "trans":"Tiger Pose",
+            "desc":"There are several ways to do the Sikap Harimau. See pictures below.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Sikap Garuda",
+            "category" : "Sikap",
+            "trans":"Eagle Stance",
+            "desc":"Eagle Stance strikes the pose of an eagle.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Sikap Naga",
+            "category" : "Sikap",
+            "trans":"Dragon Stance.",
+            "desc":"Striking the pose of a Dragon",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Tangkapan Kaki Luar",
+            "category" : "Tangkapan",
+            "trans":"Catching the Leg (Outside)",
+            "desc":"This catch is to catch a front or sidekick. You must be on the outside of your opponents leg/body.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Tangkapan Kaki Dalam",
+            "category" : "Tangkapan",
+            "trans":"Catching the Leg (Inside)",
+            "desc":"This catch is usually to catch a Sabit (Roundhouse) kick. One hand must be facing up, the other down. You trap the leg in the inside of the elbow.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Tunggal",
+            "category": "Jurus",
+            "trans":"Single Form",
+            "desc":"This forum is usually performed by a single person. It consists of 100 techniques. Jurus Tunggal begins with an empty-hand form, followed by a form with a golok weapon (machete), then finishing with a form with the (toya) or rattan staff.  It must be completed in 3 minutes, but a tolerance period of +/-10 seconds is allowed for Pre-teen and Pre-Junior categories while +/-5 seconds for the Junior, Senior and Masters categories. Should the performance go beyond the time limit, penalty will be imposed accordingly. Uttering of voice (yelling) is allowed but discouraged.  The form must be completed with precise techniques (with and without weapon), rhythmic movement, firmness and expression. ",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Regu",
+            "category": "Jurus",
+            "trans":"Team Form",
+            "desc":"Jurus Regu is an empty-hand form usually performed by three people. It has 100 techniques and must be completed in 3 (three) minutes. A tolerance period of +/- 5 seconds is allowed. You cannot set out of the arena even with one foot. The form must be completed with precise techniques, rhythmic movement, firmness and expression. ",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Tusukan",
+            "category": "Other",
+            "trans":"Puncture/Jet Strike",
+            "desc":"Aim for the vitals such as eyes and throat. Hand can be vertical if striking the groin, or horizontal if striking the neck.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Tabrakan",
+            "category": "Other",
+            "trans":"Crashing",
+            "desc":"Crashing into your opponent using your shoulder.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Tebangan",
+            "category": "Other",
+            "trans":"Chopping strike",
+            "desc":"Using the knife of your hand to chop the neck.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Tebasan Luar",
+            "category": "Other",
+            "trans":"Slashing strike",
+            "desc":"Striking outward with the knife of your hand with open palm facing downwards.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Empisan",
+            "category": "Other",
+            "trans":"Translation text",
+            "desc":"description text",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Roll Forwards",
+            "category": "Other",
+            "trans":"Guling-guling",
+            "desc":"Roll forward with your with your shoulder, without hitting your head to the floor.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Roll Backwards",
+            "category": "Other",
+            "trans":"Guling-guling Mundur",
+            "desc":"Roll backwards with your with your shoulder, without hitting your head to the floor.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         },
+         {
+            "name":"Bracing Your Fall",
+            "category": "Other",
+            "trans":"Bracefall",
+            "desc":"When falling backwards, your hands should be away from your body to help prevent injury.",
+            "img1":"url-to-image1",
+            "img2":"url-to-image2",
+            "video":"url-to-video",
+            "mistakes":"mistakes text"
+         }
+      ]
+}
